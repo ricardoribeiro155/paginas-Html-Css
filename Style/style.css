@@ -1,0 +1,73 @@
+#titulo{
+    padding-left: 2%;
+    display: flex; 
+    background:rgba(0, 0, 0, 0.8);
+    color: red;
+}
+
+#background{
+    background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/c1366fb4-3292-4428-9639-b73f25539794/9a8e2463-c5e5-45f7-8f7d-d87086a1b594/BR-pt-20240408-popsignuptwoweeks-perspective_alpha_website_medium.jpg);  
+}
+
+#backgroundSerie{
+    background-image: url(https://i.pinimg.com/736x/e1/23/09/e1230951bedbc742700c02c1416ebd92.jpg);
+}
+
+#backgroundFilme{
+    background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6gUIOtlACj-Rvze9woXUW3MrLhj8HePWhPkCciC9o-aIY5GoeNPX6I_F5aHOLft2djhrml_B4R5oa8e0ad21fhJ-k31ixQcbpE6L1Ljw7DMNTGO7PmSsjdjUxJuQx_z589ToS5_GBYt-I/s1600/fundos-de-filmes+%25281%2529.jpg);
+}
+
+#logo{
+    color:red;
+    font-size: 220%;
+    font-family:'Courier New', Courier, monospace;
+  
+}
+
+#backgroundNetflix{
+    padding-left: 15cm;
+
+}
+
+#menu{
+    font-size: 35px;
+    color:red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ a{
+    text-decoration:none;  
+    color: red; 
+}
+#list{
+    display:flex;
+}
+#serie{
+    padding-left: 15cm;
+    padding-right: 15cm;
+}
+
+ a:hover{
+    background:rgb(249, 249, 255,0.1)
+}
+
+tr {
+    height: 12cm;
+  }
+  th{
+    padding:1cm;
+  }
+  img{
+    width: 240px;
+  }
+  #filmeTitulo {
+    font-family:'Courier New', Courier, monospace;
+  color:black;
+  font-size:25px;
+  text-align:center;
+  }
+  #serieTitulo {
+    font-family:'Courier New', Courier, monospace;
+  color:black;
+  font-size:25px;
+  text-align: center;
+  }
