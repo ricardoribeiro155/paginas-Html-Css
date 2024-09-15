@@ -36,33 +36,30 @@
 
 }
 
-#menu{
-    display: flex;
+#menuPricipal{
+  
     font-size: 35px;
-    color:blue;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    display: flex; 
-    align-items: start;
-    flex-direction: row-reverse ;
-    justify-content: space-between;
-    margin-right: 1cm; 
+   
+   
     
   
 }
 #list{
-  flex-direction: column;
-  justify-content: space-around;
-
-  
+  padding-left: 10px;
+  margin: auto;
+  display:flex;
+  flex-direction:row;
+  justify-content:space-around;
 }
  a{
     text-decoration:none; 
-    color: blue;
-      
+    color: beige;
+     
 }
 
  a:hover{
-    background:rgba(26, 223, 7, 0.1)
+    background:rgba(21, 21, 21, 0.717)
 }
 
 tr {
